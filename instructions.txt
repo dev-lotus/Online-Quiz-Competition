@@ -1,0 +1,10 @@
+The timer would start only when you start the test. 
+It is mandatory to start the test at the prescribed time.
+To start the test, click on 'Start'.
+Kindly Note: Red Marked button means unattempted questions whereas green marked buttons means attempted questions and which cannot be changed anymore.
+You can see the history of test taken and scores in the 'History' section.
+Once the test is started the timer would run irrespective of your logged in or logged our status. So it is recommended not to logout before test completion.
+To mark an answer you need to select it and press the 'Lock' button. 
+Use the navigation buttons to navigate through different questions.
+No negative marking for un-attempted question.
+Participant can update the answer of only unlocked question before final submission of test.
