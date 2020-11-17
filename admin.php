@@ -1,4 +1,5 @@
 <?php
+
 include_once 'dbConnection.php';
 $ref      = @$_GET['q'];
 $username = $_POST['uname'];
